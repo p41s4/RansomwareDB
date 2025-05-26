@@ -1,6 +1,6 @@
 # RansomwareDB - Threat Actor Monitoring System
 
-A comprehensive system for monitoring and analyzing threat actors, with a focus on ransomware groups. The system provides real-time scoring based on various risk factors and sends email notifications for critical threats.
+A comprehensive system for monitoring and analyzing threat actors, with a focus on ransomware groups. The system provides real-time scoring based on various risk factors and sends email notifications for critical threats. The key point of this tool is that you can set your own parameters.
 
 ## Features
 
