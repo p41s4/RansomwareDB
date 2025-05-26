@@ -28,7 +28,7 @@ The system uses a 10-point scoring system based on the following factors:
 
 ### Industry Selection
 
-You can customize the monitored industry by changing the `SECTOR_MONITORIZADO` variable in the code. Here's the complete list of available sectors:
+You can customize the monitored industry. Here's the complete list of available sectors:
 
 - Business Services
 - Technology
@@ -84,7 +84,7 @@ You can customize the monitored industry by changing the `SECTOR_MONITORIZADO` v
 
 ### Country Selection
 
-You can customize the monitored country by changing the `PAIS_MONITORIZADO` variable in the code. Use the two-letter country code (e.g., "ES" for Spain, "US" for United States).
+You can customize the monitored country by changing the variable in the front. Use the two-letter country code (e.g., "ES" for Spain, "US" for United States).
 
 ### Email Configuration
 
