@@ -1,4 +1,4 @@
-# MalwareDB - Threat Actor Monitoring System
+# RansomwareDB - Threat Actor Monitoring System
 
 A comprehensive system for monitoring and analyzing threat actors, with a focus on ransomware groups. The system provides real-time scoring based on various risk factors and sends email notifications for critical threats.
 
