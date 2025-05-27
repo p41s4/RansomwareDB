@@ -14,8 +14,8 @@ A comprehensive system for monitoring and analyzing threat actors, with a focus 
 
 ## Scoring System
 
-The system uses a 10-point scoring system based on the following factors:
-
+The system uses an editable 10-point scoring system based on the following factors:
+[example]
 - Industry targeting: +3 points for attacks on the monitored industry
 - Country targeting: +2 points for attacks in the monitored country
 - Recent activity: +2 points for activity in the last 30 days
